@@ -4,6 +4,7 @@
     "default": [
       "{projectRoot}/**/*",
       "sharedGlobals"
+
     ],
     "production": [
       "default"
